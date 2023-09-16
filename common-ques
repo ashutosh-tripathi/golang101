@@ -1,0 +1,30 @@
+1. How is goroutines different from multithreading in other programming languages?
+2. what are worker pools in golang?
+3. What are some real world examples of using goroutines?
+4. Error handling in golang?
+5. difference between slices and array?
+6. difference between length and capacity of slices?
+7. How are slices maintained in memory?
+8. Interfaces in golang and their real world use?
+9. Implement a db class that uses interface?
+10. What are context and how they are used in golang?
+
+
+
+
+Programming:
+1. write a program using goroutines that prints numbers like 1a,1b,2a,2b,3a,3b .....9a,9b using 2 go routines and channels
+2. Write a program to check if two strings are anagrams?
+3. Write a program to pick two numbers sum match to a number in array
+
+
+
+
+
+Microservices:
+1. How to scale microservices?
+2. How to monitor microservices?
+3. how microservice to microservice call happens
+4. How to handle if a microservice goes down
+5  What cloud services have you used?
+
